@@ -20,13 +20,13 @@ stages:
         displayName: Bunjs构建
         nodeVersion: 17.8.0
         commands:
-          - curl https://bun.sh/install -o install.sh && bash install.sh && bun install && rm -rf doc_build && bun run build
+          - npm install && npm run build
         artifacts:
           - name: BUILD_ARTIFACT
             path:
               - ./doc_build
         caches:
-          - ~/.bun
+          - ~/.npm
         strategy: {}
       - step: publish@general_artifacts
         name: publish_general_artifacts
