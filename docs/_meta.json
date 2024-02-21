@@ -1,16 +1,16 @@
 [
   {
-    "text": "Guide",
+    "text": "主页",
     "link": "/guide/",
     "activeMatch": "/guide/"
   },
   {
-    "text": "Hello World",
+    "text": "开源技术",
     "link": "/hello/",
     "activeMatch": "/hello/"
   },
   {
-    "text": "API",
-    "link": "https://rspress.dev/api/index.html"
+    "text": "关于HiFOSS",
+    "link": "https://xxx/index.html"
   }
 ]
