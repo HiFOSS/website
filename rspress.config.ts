@@ -2,7 +2,6 @@ import * as path from 'path';
 import { defineConfig } from 'rspress/config';
 
 export default defineConfig({
- lang:"zh",
   root: path.join(__dirname, 'docs'),
   title: 'HiFOSS',
   description: 'HiFOSS',
