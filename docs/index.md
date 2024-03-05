@@ -17,7 +17,7 @@ hero:
     alt: HiFOSS Logo
 features:
   - title: 运营组
-    details:  HiFOSS开源社区运营组——负责HiFOSS开源社区整体运营规划，微信公众号，视频号，抖音，B站平台运营。
+    details: HiFOSS开源社区运营组——负责HiFOSS开源社区整体运营规划，微信公众号，视频号，抖音，B站平台运营。
     link: https://gitee.com/hifoss/.gitee/tree/main/HiFOSS%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E2%80%94%E8%BF%90%E8%90%A5%E7%BB%84/%E8%BF%90%E8%90%A5%E7%BB%84%E4%BB%93%E5%BA%93
     icon: 🏃🏻‍♀️
   - title: 技术探索组
@@ -33,7 +33,7 @@ features:
     link: https://gitee.com/hifoss/.gitee/tree/main/HiFOSS%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA-%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%BB%84
     icon: 🌍
   - title: 开源教育组
-    details:  HiFOSS开源社区开源教育组——负责开源内容，高校，K12，职业教育，本科院校及以上学历的相关开源布道和开源技术推广。
+    details: HiFOSS开源社区开源教育组——负责开源内容，高校，K12，职业教育，本科院校及以上学历的相关开源布道和开源技术推广。
     link: https://gitee.com/hifoss/.gitee/tree/main/HiFOSS%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA-%E5%BC%80%E6%BA%90%E6%95%99%E8%82%B2%E7%BB%84e.
     icon: 🌈
   - title: 开源治理组
